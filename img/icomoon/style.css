@@ -1,0 +1,288 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-laptop {
+  width: 1.3125em;
+}
+
+.icon-desktop {
+  width: 1.21875em;
+}
+
+.icon-tablet {
+  width: 0.78125em;
+}
+
+.icon-phone {
+  width: 0.59375em;
+}
+
+.icon-document {
+  width: 0.75em;
+}
+
+.icon-documents {
+  width: 1.0625em;
+}
+
+.icon-search {
+  width: 1.03125em;
+}
+
+.icon-clipboard {
+  width: 0.875em;
+}
+
+.icon-newspaper {
+  width: 1.3125em;
+}
+
+.icon-notebook {
+  width: 0.84375em;
+}
+
+.icon-book-open {
+  width: 1.3125em;
+}
+
+.icon-browser {
+  width: 1.3125em;
+}
+
+.icon-calendar {
+  width: 1.0625em;
+}
+
+.icon-presentation {
+  width: 0.96875em;
+}
+
+.icon-pictures {
+  width: 1.03125em;
+}
+
+.icon-video {
+  width: 1.15625em;
+}
+
+.icon-camera {
+  width: 1.3125em;
+}
+
+.icon-printer {
+  width: 1.3125em;
+}
+
+.icon-toolbox {
+  width: 1.3125em;
+}
+
+.icon-briefcase {
+  width: 1.1875em;
+}
+
+.icon-wallet {
+  width: 1.1875em;
+}
+
+.icon-gift {
+  width: 1.3125em;
+}
+
+.icon-bargraph {
+  width: 1.125em;
+}
+
+.icon-grid {
+  width: 0.96875em;
+}
+
+.icon-focus {
+  width: 1.3125em;
+}
+
+.icon-adjustments {
+  width: 1.03125em;
+}
+
+.icon-ribbon {
+  width: 0.875em;
+}
+
+.icon-hourglass {
+  width: 0.65625em;
+}
+
+.icon-lock {
+  width: 0.875em;
+}
+
+.icon-megaphone {
+  width: 1.25em;
+}
+
+.icon-shield {
+  width: 0.84375em;
+}
+
+.icon-trophy {
+  width: 1.0625em;
+}
+
+.icon-flag {
+  width: 0.875em;
+}
+
+.icon-map {
+  width: 1.28125em;
+}
+
+.icon-puzzle {
+  width: 1.09375em;
+}
+
+.icon-basket {
+  width: 1.3125em;
+}
+
+.icon-envelope {
+  width: 1.1875em;
+}
+
+.icon-streetsign {
+  width: 0.90625em;
+}
+
+.icon-telescope {
+  width: 1.09375em;
+}
+
+.icon-gears {
+  width: 1.3125em;
+}
+
+.icon-paperclip {
+  width: 1.0625em;
+}
+
+.icon-pricetags {
+  width: 1.3125em;
+}
+
+.icon-lightbulb {
+  width: 0.6875em;
+}
+
+.icon-tools {
+  width: 0.96875em;
+}
+
+.icon-paintbrush {
+  width: 0.6875em;
+}
+
+.icon-circle-compass {
+  width: 0.71875em;
+}
+
+.icon-linegraph {
+  width: 1.3125em;
+}
+
+.icon-mic {
+  width: 0.46875em;
+}
+
+.icon-strategy {
+  width: 0.71875em;
+}
+
+.icon-beaker {
+  width: 0.84375em;
+}
+
+.icon-caution {
+  width: 1.09375em;
+}
+
+.icon-anchor {
+  width: 1.09375em;
+}
+
+.icon-profile-male {
+  width: 1.125em;
+}
+
+.icon-profile-female {
+  width: 1.125em;
+}
+
+.icon-bike {
+  width: 1.75em;
+}
+
+.icon-wine {
+  width: 0.71875em;
+}
+
+.icon-hotairballoon {
+  width: 0.875em;
+}
+
+.icon-globe {
+  width: 0.78125em;
+}
+
+.icon-genius {
+  width: 0.9375em;
+}
+
+.icon-map-pin {
+  width: 0.75em;
+}
+
+.icon-chat {
+  width: 1.3125em;
+}
+
+.icon-heart {
+  width: 1.15625em;
+}
+
+.icon-cloud {
+  width: 1.3125em;
+}
+
+.icon-upload {
+  width: 1.3125em;
+}
+
+.icon-download {
+  width: 1.3125em;
+}
+
+.icon-target {
+  width: 1.3125em;
+}
+
+.icon-alarmclock {
+  width: 0.9375em;
+}
+
+.icon-embed2 {
+  width: 1.25em;
+}
