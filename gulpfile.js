@@ -15,8 +15,8 @@ const   gulp            =   require('gulp'),
 gulp.task('server', function(){    
     // Starting the server
     browserSync.init({
-        // server: './',     
-        proxy: "http://localhost/wordpress/",
+        server: './',     
+        // proxy: "http://localhost/wordpress/",
         notify: false, 
         browser: ['chrome'] // ['chrome', 'firefox'],        
     }); 
