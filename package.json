@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "devkit",
   "version": "1.0.0",
-  "description": "A practice project for Advanced CSS, SASS and CSS Grid - Portfolio",
+  "description": "Starter Development Kit",
   "main": "index.js",
   "scripts": {
     "start": "gulp",
