@@ -1,0 +1,8 @@
+# Ignore this files
+gulpfile.js
+package.json
+fonts/RobotoMono-Medium.ttf
+
+# Ignore Directories
+node_modules/
+img/icomoon/

@@ -1,0 +1,32 @@
+// SMACSS: Scalable and Modular Architecture for CSS
+
+// ABSTRACT
+@import "./abstract/functions",
+        "./abstract/mixins",
+        "./abstract/variables";
+// BASE
+@import "./base/base",        
+        "./base/typography";
+// COMPONENTS
+@import "./components/about",
+        "./components/bg-video",
+        "./components/resume",
+        "./components/navigation",
+        "./components/portfolio",
+        "./components/tech",
+        "./components/skill",
+        "./components/skills",
+        "./components/get-in-touch";
+// LAYOUT
+@import "./layout/header",
+        "./layout/contact",
+        "./layout/footer";
+
+// PAGES
+// @import "./";
+
+// THEMES
+// @import "./";
+
+// VENDOR
+// @import "./";

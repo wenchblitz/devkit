@@ -1,0 +1,24 @@
+// Responsive Breakpoints (Use EM) || 1em = 16px
+$lg: 75em;      // Large devices        (desktops, less than 1200px)
+$md: 61.9em;    // Medium devices       (tablets, less than 992px)
+$sm: 47.9em;    // Small devices        (landscape phones, less than 768px)
+$xs: 35.9em;    // Extra small devices  (portrait phones, less than 576px)
+
+// Media Queries Manager
+@mixin respond($bp) {
+    @if($bp == lg) {
+        @media only screen and (min-width: $lg) { @content; }
+    } @else if($bp == md) {
+        @media only screen and (max-width: $md) { @content; }
+    } @else if($bp == sm) {
+        @media only screen and (max-width: $sm) { @content; }
+    } @else if($bp == xs) {
+        @media only screen and (max-width: $xs) { @content; }
+    }
+}
+
+// Usage
+// @include respond(lg){ ... }
+// @include respond(md){ ... }
+// @include respond(sm){ ... }
+// @include respond(xs){ ... }
