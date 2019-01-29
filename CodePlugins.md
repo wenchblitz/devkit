@@ -33,3 +33,7 @@
 * Font Size: `14`
 * Font Family: `Roboto Mono Medium, Consolas, 'Courier New', monospace`
 * Tab Size: `4`
+
+### `Remove Git Init`
+
+rm -rf .git
