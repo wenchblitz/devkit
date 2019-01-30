@@ -42,3 +42,16 @@ rm -rf .git
 
 npm uninstall `ls -1 node_modules | tr '/\n' ' '`
 npm i uninstall-all-modules
+
+### `Essentials Node Packages`
+
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "pump": "^3.0.0"
