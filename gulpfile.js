@@ -66,14 +66,6 @@ gulp.task('minify', function (cb) {
     );
 });
 
-// Minify JS
-// gulp.task('minify', function () {
-//     return gulp.src('js/app.js')
-//         .pipe(uglify().on('error', gutil.log))
-//         .pipe(rename({ suffix: '.min' }))
-//         .pipe(gulp.dest('js'));
-// });
-
 // Copy all build files to dist folder || Production ( Pre-released )
 // Invoke this using: (npm run gulp build)
 gulp.task('build', function(){    
