@@ -4,29 +4,22 @@
 @import "./abstract/functions",
         "./abstract/mixins",
         "./abstract/variables";
+
 // BASE
 @import "./base/base",        
         "./base/typography";
-// COMPONENTS
-@import "./components/about",
-        "./components/bg-video",
-        "./components/resume",
-        "./components/navigation",
-        "./components/portfolio",
-        "./components/tech",
-        "./components/skill",
-        "./components/skills",
-        "./components/get-in-touch";
-// LAYOUT
-@import "./layout/header",
-        "./layout/contact",
-        "./layout/footer";
+
+// // COMPONENTS
+// @import "./components/ADD_YOUR_PARTIAL_SCSS";
+
+// // LAYOUT
+// @import "./components/ADD_YOUR_PARTIAL_SCSS";
 
 // PAGES
-// @import "./";
+// @import "./pages/ADD_YOUR_PARTIAL_SCSS";
 
 // THEMES
-// @import "./";
+// @import "./themes/ADD_YOUR_PARTIAL_SCSS";
 
 // VENDOR
-// @import "./";
+// @import "./vendor/ADD_YOUR_PARTIAL_SCSS";
