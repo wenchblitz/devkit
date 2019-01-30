@@ -16,12 +16,10 @@
     "gulp-autoprefixer": "^6.0.0",
     "gulp-cli": "^2.0.1",
     "gulp-csscomb": "^3.0.8",
-    "gulp-pug": "^4.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.1",
-    "gulp-util": "^3.0.8",
-    "vinyl-ftp": "^0.6.1"
+    "pump": "^3.0.0"
   }
 }
