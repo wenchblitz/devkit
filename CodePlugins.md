@@ -37,3 +37,8 @@
 ### `Remove Git Init`
 
 rm -rf .git
+
+### `Uninstall all npm dependencies`
+
+npm uninstall `ls -1 node_modules | tr '/\n' ' '`
+npm i uninstall-all-modules
