@@ -10,16 +10,21 @@
         "./base/typography";
 
 // // COMPONENTS
+@import "./components/sample-component";
 // @import "./components/ADD_YOUR_PARTIAL_SCSS";
 
 // // LAYOUT
-// @import "./components/ADD_YOUR_PARTIAL_SCSS";
+@import "./layout/sample-layout";
+// @import "./layout/ADD_YOUR_PARTIAL_SCSS";
 
 // PAGES
+@import "./pages/sample-pages";
 // @import "./pages/ADD_YOUR_PARTIAL_SCSS";
 
 // THEMES
-// @import "./themes/ADD_YOUR_PARTIAL_SCSS";
+@import "./theme/sample-theme";
+// @import "./theme/ADD_YOUR_PARTIAL_SCSS";
 
 // VENDOR
+@import "./vendor/sample-vendor";
 // @import "./vendor/ADD_YOUR_PARTIAL_SCSS";
