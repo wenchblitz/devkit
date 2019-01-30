@@ -40,7 +40,7 @@ gulp.task('styles', function(){
         .pipe(sass({outputStyle: 'compressed'}))    // Minify CSS
         .pipe(rename({basename: 'style'}))          // Rename main.scss to style.css
         .pipe(sourcemaps.write('./'))               // Generate sourcemaps for devtools
-        .pipe(gulp.dest('./'))                      // Development || Staging 
+        .pipe(gulp.dest('./css'))                      // Development || Staging 
         .pipe(browserSync.stream());                // Inject CSS
 });
 
@@ -51,7 +51,7 @@ gulp.task('debugger', function () {
         .pipe(autoprefixer('last 2 version'))       
         .pipe(csscomb())
         .pipe(rename({ basename: 'debugger' }))
-        .pipe(gulp.dest('./'));
+        .pipe(gulp.dest('./css'));
 });
 
 // Minify JS
