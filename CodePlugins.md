@@ -32,6 +32,7 @@
 * Auto Save Delay: `1500`
 * Font Size: `14`
 * Font Family: `Roboto Mono Medium, Consolas, 'Courier New', monospace`
+* Alternate: `"SourceCodePro+Powerline+Awesome Regular"`
 * Tab Size: `4`
 
 ### `Remove Git Init`
