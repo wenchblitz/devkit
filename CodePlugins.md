@@ -31,6 +31,7 @@
 
 ## `Theme`
 
+* Material Theme
 * Monokai
 * Monokai Mega
 * Monokai Alt
