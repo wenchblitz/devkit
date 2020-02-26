@@ -2,16 +2,21 @@
 
 * Auto Close Tag
 * Auto Rename Tag
+* Auto Complete Tag
 * Better Comments
-* Beautify
 * Bookmarks
 * Bracket Pair Colorizer
+* ES7 React/Redux/GraphQL/React-Native Snippets
 * Color Highlight
 * CSS Peek
+* Docker
+* DotENV
 * Git History
 * GitLens
 * HTML Boilerplate
 * HTML CSS Support
+* Highlight Matching Tag
+* Indent Rainbow
 * IntelliSense for CSS class names in HTML
 * markdownlint
 * Material Icon Theme
@@ -36,7 +41,6 @@
 
 ### `VSCode Settings`
 
-* Auto Save Delay: `1500`
 * Font Size: `14`
 * Font Family: `Roboto Mono Medium, Consolas, 'Courier New', monospace`
 * Alternate: `"SourceCodePro+Powerline+Awesome Regular"`
