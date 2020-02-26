@@ -2,6 +2,7 @@
 
 * Auto Close Tag
 * Auto Rename Tag
+* Better Comments
 * Beautify
 * Bookmarks
 * Bracket Pair Colorizer
@@ -15,13 +16,19 @@
 * markdownlint
 * Material Icon Theme
 * Paste and Indent
+* PHP IntelliSense
 * Project Manager
 * SCSS IntelliSense
+* SCSS Formatter
+* Simple React Snippets
 * Subtle Match Brackets
+* TabNine
 
 ## `Theme`
 
 * Monokai
+* Monokai Mega
+* Monokai Alt
 
 ### `Icon Theme`
 
